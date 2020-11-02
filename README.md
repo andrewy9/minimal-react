@@ -1,3 +1,5 @@
+# Forked for use of the boilet plate from EDA
+
 # React minimal
 
 As part of an introduction to React, this repo attempts to show React in a most basic form.
