@@ -1,4 +1,4 @@
-# Forked for use of the boilet plate from EDA
+Forked for use of the boilet plate from EDA
 
 # React minimal
 
